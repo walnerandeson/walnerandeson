@@ -2,13 +2,15 @@
 
 **`Senior Software Developer`**
 
-Olá pessoal, bem vindos ao meu GitHub. 😁
+Olá pessoal, bem-vindos ao meu GitHub! 😁
 
-Olá! Sou desenvolvedor de software, natural do Maranhão, e apaixonado por tecnologia, aprendizado contínuo e por transformar boas ideias em soluções reais.
+Sou desenvolvedor de software, natural do Maranhão, e apaixonado por tecnologia, aprendizado contínuo e por transformar boas ideias em soluções reais.
 
 Minha trajetória na área foi construída com muita dedicação, curiosidade e vontade constante de evoluir. Já são mais de 10 anos de experiência em tecnologia, atuando em projetos, integrações e desenvolvimento de sistemas com foco em qualidade, eficiência e impacto real no dia a dia das pessoas.
 
-Atualmente, trabalho como Senior Software Developer na Betha Sistemas e também na Fullzi Tecnologia. Na Bionexo, atuo com soluções integradas ao TASY, um sistema de gestão hospitalar que apoia processos clínicos, administrativos e operacionais em instituições de saúde. Ao longo da minha carreira, venho participando de diferentes etapas do ciclo de vida do software, sempre buscando construir soluções seguras, escaláveis e bem estruturadas.
+Atualmente, atuo como Senior Software Developer na Betha Sistemas, onde trabalho no desenvolvimento e evolução do projeto Esfinge — solução responsável pela integração e envio automatizado de dados de prestação de contas da gestão pública para os órgãos fiscalizadores (como o TCE). Também atuo na Fullzi Tecnologia.
+
+Anteriormente, trabalhei como Senior Software Developer na Philips, atuando com soluções integradas ao TASY, sistema de gestão hospitalar que apoia processos clínicos, administrativos e operacionais em instituições de saúde. Ao longo da minha carreira, venho participando de todas as etapas do ciclo de vida do software, sempre buscando construir soluções seguras, escaláveis e bem estruturadas.
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela FACEMA e atualmente sou pós-graduando em Inteligência Artificial pela Unicorp. Gosto de unir prática, estudo e pesquisa para continuar evoluindo como profissional e acompanhar as transformações da tecnologia.
 
